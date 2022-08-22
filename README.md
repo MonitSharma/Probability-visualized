@@ -20,7 +20,7 @@ Visualizing mathematical problems can help understand and solve them better.
     <td class="tg-yw4l">Two People Sharing the same birthday</td>
     <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Quantum-Integer-Programming-76235c575d6849fea5d632f73c345742">
    <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/tree/main/birthday%20problem">
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/blob/main/birthday%20problem/birthday.R">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png" width = '80' >
 </a></td>
   </tr>
@@ -30,7 +30,7 @@ Visualizing mathematical problems can help understand and solve them better.
     <td class="tg-yw4l">Understanding the Monty Hall Problem</td>
     <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/The-Monty-Hall-Problem-00c72cbd95934a309d36cbd8f0c5cb52">
    <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/tree/main/monty%20hall%20problem">
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/blob/main/monty%20hall%20problem/montyhall.R">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png" width = '80' >
 </a></td>
   </tr>
