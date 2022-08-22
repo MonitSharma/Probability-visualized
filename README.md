@@ -11,8 +11,8 @@ Visualizing mathematical problems can help understand and solve them better.
   <tr>
     <th class="tg-yw4l"><b>Title</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
-    <th class="tg-yw4l"><b>Lecture Notes</b></th>
-    <th class="tg-yw4l"><b>Notebook</b></th>
+    <th class="tg-yw4l"><b>Article</b></th>
+    <th class="tg-yw4l"><b>Code File</b></th>
   </tr>
   
   <tr>
