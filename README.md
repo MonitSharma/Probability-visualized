@@ -18,7 +18,7 @@ Visualizing mathematical problems can help understand and solve them better.
   <tr>
     <td class="tg-yw4l">The Birthday Problem</td>
     <td class="tg-yw4l">Two People Sharing the same birthday</td>
-    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Quantum-Integer-Programming-76235c575d6849fea5d632f73c345742">
+    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/The-Birthday-Problem-in-Statistics-c19c12142cef45a48a75a91c0cc4e5e6">
    <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
     <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/blob/main/birthday%20problem/birthday.R">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png" width = '80' >
