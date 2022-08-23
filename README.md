@@ -36,6 +36,15 @@ Visualizing mathematical problems can help understand and solve them better.
   </tr>
 
 
+<tr>
+    <td class="tg-yw4l">Bootstrapping</td>
+    <td class="tg-yw4l">Understanding the method of Bootstrapping</td>
+    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Bootstrapping-debf92eb77974f448aa37995904336c4">
+   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/blob/main/bootstrapping/bootstrap.R">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png" width = '80' >
+</a></td>
+  </tr>
  
   </table> 
  
