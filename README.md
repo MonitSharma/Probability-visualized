@@ -50,7 +50,7 @@ Visualizing mathematical problems can help understand and solve them better.
   
   <tr>
     <td class="tg-yw4l">University of the Uniform </td>
-    <td class="tg-yw4l">Understanding the method of Bootstrapping</td>
+    <td class="tg-yw4l">Universality of the uniform / inverse transform sampling</td>
     <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Universality-of-the-uniform-de746d9b31e2474587629c6a687f0b39">
    <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
     <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/blob/main/uniform/uniform.R">
