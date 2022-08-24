@@ -45,6 +45,18 @@ Visualizing mathematical problems can help understand and solve them better.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png" width = '80' >
 </a></td>
   </tr>
+  
+  
+  
+  <tr>
+    <td class="tg-yw4l">University of the Uniform </td>
+    <td class="tg-yw4l">Understanding the method of Bootstrapping</td>
+    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Universality-of-the-uniform-de746d9b31e2474587629c6a687f0b39">
+   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/blob/main/uniform/uniform.R">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png" width = '80' >
+</a></td>
+  </tr>
  
   </table> 
  
