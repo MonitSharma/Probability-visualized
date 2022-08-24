@@ -58,6 +58,21 @@ Visualizing mathematical problems can help understand and solve them better.
 </a></td>
   </tr>
  
+ 
+ 
+  <tr>
+    <td class="tg-yw4l"> Propesnity Score Matching </td>
+    <td class="tg-yw4l"> Propensity score matching & the propensity score paradox</td>
+    <td class="tg-yw4l"><a href="https://vaulted-pelican-d82.notion.site/Propensity-score-matching-the-propensity-score-paradox-dfc537d2c1a149e1acb00320238a3d62">
+   <img src="https://github.com/MonitSharma/MonitSharma/blob/main/notion.svg" width="50" height="50" >
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Probability-visualized/blob/main/PSM/psm.R">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png" width = '80' >
+</a></td>
+  </tr>
+ 
+ 
+ 
+ 
   </table> 
  
 
